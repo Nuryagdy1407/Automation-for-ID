@@ -1,0 +1,14 @@
+D:\Taslama\Autoamtion_for_ID(Soha)\Autoamtion_for_ID(Soha)\bin\Debug\Autoamtion_for_ID(Soha).exe.config
+D:\Taslama\Autoamtion_for_ID(Soha)\Autoamtion_for_ID(Soha)\bin\Debug\Autoamtion_for_ID(Soha).exe
+D:\Taslama\Autoamtion_for_ID(Soha)\Autoamtion_for_ID(Soha)\bin\Debug\Autoamtion_for_ID(Soha).pdb
+D:\Taslama\Autoamtion_for_ID(Soha)\Autoamtion_for_ID(Soha)\obj\Debug\Autoamtion_for_ID_Soha_.Form1.resources
+D:\Taslama\Autoamtion_for_ID(Soha)\Autoamtion_for_ID(Soha)\obj\Debug\Autoamtion_for_ID_Soha_.Properties.Resources.resources
+D:\Taslama\Autoamtion_for_ID(Soha)\Autoamtion_for_ID(Soha)\obj\Debug\Autoamtion_for_ID(Soha).csproj.GenerateResource.cache
+D:\Taslama\Autoamtion_for_ID(Soha)\Autoamtion_for_ID(Soha)\obj\Debug\Autoamtion_for_ID(Soha).csproj.CoreCompileInputs.cache
+D:\Taslama\Autoamtion_for_ID(Soha)\Autoamtion_for_ID(Soha)\obj\Debug\Autoamtion_for_ID(Soha).exe
+D:\Taslama\Autoamtion_for_ID(Soha)\Autoamtion_for_ID(Soha)\obj\Debug\Autoamtion_for_ID(Soha).pdb
+D:\Taslama\Autoamtion_for_ID(Soha)\Autoamtion_for_ID(Soha)\bin\Debug\Autoamtion_for_ID(Soha).exe.manifest
+D:\Taslama\Autoamtion_for_ID(Soha)\Autoamtion_for_ID(Soha)\bin\Debug\Autoamtion_for_ID(Soha).application
+D:\Taslama\Autoamtion_for_ID(Soha)\Autoamtion_for_ID(Soha)\obj\Debug\Autoamtion_for_ID(Soha).exe.manifest
+D:\Taslama\Autoamtion_for_ID(Soha)\Autoamtion_for_ID(Soha)\obj\Debug\Autoamtion_for_ID(Soha).application
+D:\Taslama\Autoamtion_for_ID(Soha)\Autoamtion_for_ID(Soha)\obj\Debug\Autoamtion_for_ID(Soha).csproj.AssemblyReference.cache

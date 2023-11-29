@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30711.63
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Autoamtion_for_ID(Soha)", "Autoamtion_for_ID(Soha).csproj", "{EF71B0A1-4BE1-4026-A47C-EB6707531A23}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Automation_for_ID", "..\Automation_for_ID\Automation_for_ID.vdproj", "{26A47006-003A-401B-8825-5EC4176CDA61}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF71B0A1-4BE1-4026-A47C-EB6707531A23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF71B0A1-4BE1-4026-A47C-EB6707531A23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF71B0A1-4BE1-4026-A47C-EB6707531A23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF71B0A1-4BE1-4026-A47C-EB6707531A23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26A47006-003A-401B-8825-5EC4176CDA61}.Debug|Any CPU.ActiveCfg = Debug
+		{26A47006-003A-401B-8825-5EC4176CDA61}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {61FE1FB7-2A15-44CC-B66B-DACDA29AA000}
+	EndGlobalSection
+EndGlobal
